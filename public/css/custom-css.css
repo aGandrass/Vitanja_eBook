@@ -121,7 +121,7 @@ h3 {
     font-weight: 400;
     font-size: 30px;
 }
-@media (min-width: 576px)
+@media (max-width: 576px)
 {
   .box {
     display: block;
@@ -132,20 +132,20 @@ h3 {
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3)!important;
     position: relative;
     border-top: 5px solid rgb(251, 140, 0);
-    padding: 30px 50px 10px;
+    padding: 30px 20px 10px;
     background-image: none;
     opacity: 1;
   }
   .box h5 {
     font-weight: 500;
-    font-size: 38px;
-    line-height: 60px;
+    font-size: 30px;
+    line-height: 40px;
     color: rgb(251, 140, 0);
   }
   .box p {
     font-weight: 400;
     color: #000;
-    font-size: 20px;
+    font-size: 18px;
   }
   .box h6 {
     font-weight: 500;
@@ -169,7 +169,7 @@ h3 {
   }
   .form-control-lg {
       padding: 1rem 1rem;
-      font-size: 1.25rem;
+      font-size: 0.9rem;
       line-height: 1.5;
       border-radius: .3rem;
   }
@@ -203,16 +203,12 @@ h3 {
       font-family: roboto, sans-serif;
       font-style: normal;
       font-weight: 400;
-      font-size: 30px;
+      font-size: 20px;
   }
   .btn-secondary:hover {
       color: #fff;
       background-color: rgb(189, 106, 1);
       border-color: rgb(189, 106, 1);
-      font-family: roboto, sans-serif;
-      font-style: normal;
-      font-weight: 400;
-      font-size: 30px;
   }
 }
 

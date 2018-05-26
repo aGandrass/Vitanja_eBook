@@ -50,7 +50,7 @@
       <div class="col-md col-sm">
         <div class="margin60top"></div>
         <div class="imgBox">
-          <img src="/images/vitanja_ebook.png" alt="Vitanja eBook">
+          <img style="width: 100%;" src="/images/vitanja_ebook.png" alt="Vitanja eBook">
           <p class="contentBox">Smoothies are kind of amazing. They are a quick and easy way to fill your tummy, get a bunch of nutrients at once, and, of course, they taste incredibly good.</p>
         </div>
       </div><!-- END COL-MD-6 -->
