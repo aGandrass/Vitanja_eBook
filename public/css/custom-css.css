@@ -1,11 +1,11 @@
 /* MAIN STYLES */
 body {
-  font-family: roboto, sans-serif;
+  font-family: heimat-didone-14, sans-serif;
   font-style: normal;
   font-weight: 200;
 }
 h1, h2, h3, h4, h5, h6, p, .form, input {
-  font-family: roboto, sans-serif;
+  font-family: heimat-didone-14, sans-serif;
   font-style: normal;
 }
 h1 {
@@ -21,7 +21,7 @@ h2 {
 h3 {
   font-weight: 500;
   font-size: 30px;
-  color: rgb(255, 215, 0);
+  color: #f34a51;
 }
 #sectionHeader {
   background: url(/images/ebookbg.jpg) center no-repeat rgba(255,255,255,1);
@@ -107,7 +107,7 @@ h3 {
     color: #fff;
     background-color: rgb(251, 140, 0);
     border-color: rgb(251, 140, 0);
-    font-family: roboto, sans-serif;
+    font-family: heimat-didone-14, sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 30px;
@@ -116,10 +116,6 @@ h3 {
     color: #fff;
     background-color: rgb(189, 106, 1);
     border-color: rgb(189, 106, 1);
-    font-family: roboto, sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 30px;
 }
 @media (max-width: 576px)
 {
@@ -200,7 +196,7 @@ h3 {
       color: #fff;
       background-color: rgb(251, 140, 0);
       border-color: rgb(251, 140, 0);
-      font-family: roboto, sans-serif;
+      font-family: heimat-didone-14, sans-serif;
       font-style: normal;
       font-weight: 400;
       font-size: 20px;
@@ -232,7 +228,7 @@ h3 {
 
 /* FOOTER */
 footer {
-  font-family: roboto, sans-serif;
+  font-family: heimat-didone-14, sans-serif;
   font-style: normal;
 }
 

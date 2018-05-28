@@ -17,11 +17,11 @@
       <div class="col-md col-sm">
         <div class="margin60top"></div>
         <div class="box">
-          <h6 class="text-center">THANK YOU FOR YOUR INTEREST</h6>
+          <h6 class="text-center">THANK YOU FOR SIGNING UP!</h6>
           <div class="margin20top"></div>
-          <p class="text-center">We will send your copy to your entered email address. It can take up to one hour for your eBook to arrive.</p>
+          <p class="text-center">Your eBook is on its way - check your Email!</p>
           <div class="margin40top"></div>
-          <p class="text-center">In the meantime have a look at our website:<br><a href="https://www.vitanja.com" target="_blank">www.vitanja.com</a></p>
+          <p class="text-center">For more information, inspiration and recipes, check our website:<br><a href="https://www.vitanja.com" target="_blank">www.vitanja.com</a></p>
           <div class="margin40top"></div>
         </div>
       </div><!-- END COL-MD -->
