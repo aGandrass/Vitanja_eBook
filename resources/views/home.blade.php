@@ -73,6 +73,10 @@
         <div class="col-md col-sm">
           <div class="margin40top"></div>
           <div class="imgBox">
+            <a href="https://www.facebook.com/healthcoachintraining/" target="_blank"><img style="width: 30px;" src="images/facebook_icon.png" alt="Facebook Vitanja"></a>
+            <a href="https://www.instagram.com/vitanja_lifestyle/" target="_blank"><img style="width: 30px;" src="images/instagram_icon.png" alt="Instagram Vitanja"></a>
+            <a href="https://www.linkedin.com/company/vitanja/" target="_blank"><img style="width: 30px;" src="images/linkedin_icon.png" alt="LinkedIn Vitanja"></a>
+            <div class="margin40top"></div>
             <p>&copy; Copyrights by Vitanja. All Rights Reserved.</p>
           </div>
         </div>

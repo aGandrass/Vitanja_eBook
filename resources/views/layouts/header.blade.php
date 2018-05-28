@@ -27,8 +27,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 
     <link href="{{ asset('css/custom-css.css') }}" rel="stylesheet">
-    <link href="{{ asset('font/css/open-iconic-bootstrap.css') }}" rel="stylesheet">
-    <!-- <link href="{{ asset('web-fonts-with-css/css/fontawesome-all.css') }}" rel="stylesheet"> -->
+    <!-- <link href="{{ asset('font/css/open-iconic-bootstrap.css') }}" rel="stylesheet"> ->
 
 
 </head>
@@ -36,7 +35,8 @@
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MG2WGNH"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->    @yield('content')
+    <!-- End Google Tag Manager (noscript) -->
+    @yield('content')
     @include('layouts.footer')
 </body>
 </html>
