@@ -6,7 +6,7 @@
     <div class="col">
       <div class="margin40top"></div>
       <h2 class="text-center">#GetVitanized</h2>
-      <h1 class="text-center"><b>7 Day Raw <span style="color: #f9beb8">KETO</span> Smoothie Recipe Book</b></h1>
+      <h1 class="text-center"><b>7 Day Raw <span style="color: #f9beb8">KETO</span> Breakfast Guide</b></h1>
     </div><!-- END COL -->
   </div><!-- END ROW -->
 
@@ -24,7 +24,7 @@
         <div class="box">
           <h5 class="text-center">Get the FREE eBook</h5>
           <div class="margin20top"></div>
-          <p class="text-center">Simply sign up and download your 7 Day Raw Keto Smoothie Recipe Book</p>
+          <p class="text-center">Simply sign up and download your<br>7 Day Raw Keto Breakfast Guide</p>
           <div class="margin40top"></div>
           <form id="leadForm" action="/generateLead" method="post">
             {{ csrf_field() }}

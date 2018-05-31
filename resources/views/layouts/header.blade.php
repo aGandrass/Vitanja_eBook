@@ -16,7 +16,7 @@
     })(window,document,'script','dataLayer','GTM-MG2WGNH');</script>
     <!-- End Google Tag Manager -->
 
-    <title>7 Day Raw Keto Smoothie Guide | Vitanja | GetVitanized</title>
+    <title>7 Day Raw Keto Breakfast Guide | Vitanja | GetVitanized</title>
     <link rel="icon" href="images/vitanja_icon.png" type="image/png">
 
     <!-- jQuery -->
