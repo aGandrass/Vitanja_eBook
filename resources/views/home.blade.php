@@ -42,7 +42,7 @@
             </div>
             <div class="margin20top"></div>
             <div class="form-check">
-              <input class="form-check-input" type="checkbox" name="formGDPR" value="2">
+              <input class="form-check-input" type="checkbox" name="formGDPR" value="1">
               <label class="form-check-label" for="form GDPR">I agree to the GDPR Terms & Conditions <button class="btn-infoModal" type="button" data-toggle="modal" data-target="#infoModal"><span style="margin-left: 10px" class="oi oi-info" title="info" aria-hidden="true"></span></button></label>
             </div>
             <div class="margin20top"></div>
