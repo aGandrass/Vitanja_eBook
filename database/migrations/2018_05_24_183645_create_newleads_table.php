@@ -17,6 +17,7 @@ class CreatenewLeadsTable extends Migration
             $table->increments('id');
             $table->string('leadName');
             $table->string('leadMail');
+            $table->integer('gdprConfirm');
             $table->timestamps();
         });
     }

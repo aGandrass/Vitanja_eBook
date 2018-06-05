@@ -8,6 +8,7 @@ class Newlead extends Model
 {
     protected $fillable = [
       'leadName',
-      'leadMail'
+      'leadMail',
+      'gdprConfirm',
     ];
 }

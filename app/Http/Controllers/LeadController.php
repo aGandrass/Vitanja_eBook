@@ -13,6 +13,7 @@ class LeadController extends Controller
       $request = Newlead::create([
         'leadName' => request('formName'),
         'leadMail' => request('formMail'),
+        'gdprConfirm' => request('formGDPR'),
       ]);
 
       Newsletter::subscribe(request('formMail'), ['FNAME' => request('formName')], 'subscribers');
